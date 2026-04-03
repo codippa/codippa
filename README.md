@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**codippa/codippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer | ☕ Java & Spring Boot | 🚀 Learning CI/CD & AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on backend systems using Java & Spring Boot  
+- 🌱 Exploring CI/CD, Microservices, and AI integrations  
+- 💡 Passionate about building scalable and clean architectures  
+- 🎯 Goal: Become a top-tier software engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Java, Python  
+- ⚙️ Backend: Spring Boot, REST APIs  
+- 🗄️ Database: MySQL, MongoDB  
+- 🔧 Tools: Git, Docker, GitHub Actions  
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **Project One** – Scalable REST API with Spring Boot  
+- 🤖 **Project Two** – AI-powered document search system  
+- 🔄 **Project Three** – Microservices with event-driven architecture  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: your-email@example.com  
+
+---
+
+⭐️ From https://github.com/your-username)
